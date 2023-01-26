@@ -17,13 +17,15 @@ function randomPunctuation() {
 }
 
 const tab = [
-  { question: "question 1", answer: "111" },
-  { question: "question 2", answer: "222" },
-  { question: "question 3", answer: "333" },
-  { question: "question 4", answer: "444" },
-  { question: "question 5", answer: "555" },
-  { question: "question 6", answer: "666" },
+  { keywords: "homme, fort, monde", answer: "chuck noris" },
+  { keywords: "question 2", answer: "222" },
+  { keywords: "question 3", answer: "333" },
+  { keywords: "question 4", answer: "444" },
+  { keywords: "question 5", answer: "555" },
+  { keywords: "question 6", answer: "666" },
 ];
+//is groot
+//is debug
 
 
 function chatAnswer(e) {
